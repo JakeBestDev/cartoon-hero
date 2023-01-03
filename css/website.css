@@ -1,0 +1,60 @@
+body{
+	
+}
+
+h1, h2{
+	font-family: 'Archivo Black', sans-serif;
+}
+
+header {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #2099EA;
+	text-align: center;
+}
+
+header h1{
+	color: white;
+	
+}
+
+header img{
+	border-radius: 300px;
+	width: 300px;
+
+}
+
+main {
+    background-color: #2099EA;
+    text-align: center;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+p.caption{
+	color: lightgray;
+	margin-top: 0px;
+	opacity: 70%;
+	font-style: italic;
+}
+main img{
+	max-width: 100%;
+}
+
+a:hover {
+	color: red;
+	background-color: white;
+}
+
+footer {
+	background-color: #2099EA;
+    text-align: center;
+    background-position-y: center;
+    padding: 10px;
+    margin-top: 0px;
+    color: white;
+}
